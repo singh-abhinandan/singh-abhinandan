@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Abhinandan Singh 👋
 
-<!--
-**singh-abhinandan/singh-abhinandan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Product Engineer | Frontend Developer
 
-Here are some ideas to get you started:
+I build responsive web experiences by combining frontend development with product thinking and UX/UI design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With 6+ years of experience in digital product design, I'm expanding my engineering skills to build products from design to code.
+
+### What I'm working with
+
+- **Frontend:** HTML, CSS, JavaScript, React, Next.js
+- **Tools:** Git, GitHub, VS Code
+- **Design:** Figma, Design Systems, Responsive UI, Accessibility
+- **AI tools:** ChatGPT, Claude, Cursor
+
+### Featured Work
+
+I'm building and improving projects to strengthen my frontend development skills.
+
+- **Portfolio:** [abhinandansingh.xyz](https://www.abhinandansingh.xyz)
+- **GitHub Projects:** More projects coming soon
+
+### Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/abhinandansingh77)
+- [Behance](https://www.behance.net/abhinandan77)
+- [Portfolio](https://www.abhinandansingh.xyz)
